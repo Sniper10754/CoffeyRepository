@@ -1,6 +1,7 @@
 {
+  "name": "Github-Desktop",
   "version": 0.1,
-  
+  "description": "Github desktop",
   
   "WindowsInstaller": "installer.cmd",
   "LinuxInstaller": "installer.sh"
