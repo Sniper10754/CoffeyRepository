@@ -1,3 +1,4 @@
 {
-
+  "WindowsInstaller": "installer.cmd",
+  "LinuxInstaller": "installer.sh"
 }
