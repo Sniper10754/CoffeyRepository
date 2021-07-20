@@ -1,4 +1,7 @@
 {
+  "version": 0.1
+  
+  
   "WindowsInstaller": "installer.cmd",
   "LinuxInstaller": "installer.sh"
 }
