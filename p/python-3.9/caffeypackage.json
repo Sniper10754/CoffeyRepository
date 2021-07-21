@@ -1,1 +1,8 @@
-
+{
+  "name": "Python",
+  "version": 3.9,
+  "description": "Python interpreter",
+  
+  "WindowsInstaller": "installer.bat",
+  "LinuxInstaller": "installer.sh"
+}
