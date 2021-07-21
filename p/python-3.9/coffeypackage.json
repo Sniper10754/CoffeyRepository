@@ -1,6 +1,8 @@
 {
   "name": "Python",
-  "version": 3.9,
+  "version": [
+    3.9
+  ],
   "description": "Python interpreter",
   
   "WindowsInstaller": "installer.cmd",
