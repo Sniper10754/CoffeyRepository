@@ -3,6 +3,6 @@
   "version": 3.9,
   "description": "Python interpreter",
   
-  "WindowsInstaller": "installer.bat",
+  "WindowsInstaller": "installer.cmd",
   "LinuxInstaller": "installer.sh"
 }
